@@ -1,7 +1,7 @@
 # RMS Sales Analysis Project
 
 ##Project Overview
-This project analyzes sales performance for RKY Mega Stores (RMS) from 2009-2012 using Excel Pivot Tables and Dashboards.
+##This project analyzes sales performance for RKY Mega Stores (RMS) from 2009-2012 using Excel Pivot Tables and Dashboards.
 
 ##Key Insights
 - Best-selling product category: Technology
@@ -10,8 +10,8 @@ This project analyzes sales performance for RKY Mega Stores (RMS) from 2009-2012
 - Recommendations for increasing revenue and reducing shipping costs.
 
 ##Files Included
-- `RMS-Dataset: Contains cleaned data, Pivot Tables, and Dashboard.
-- `RMS Report: Detailed analysis and recommendations.
+- RMS-Dataset: Contains cleaned data, Pivot Tables, and Dashboard.
+- RMS Report: Detailed analysis and recommendations.
 
 ##Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
