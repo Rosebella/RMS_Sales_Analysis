@@ -1,6 +1,7 @@
 # RMS Sales Analysis Project
 
 ##Project Overview
+
 ##This project analyzes sales performance for RKY Mega Stores (RMS) from 2009-2012 using Excel Pivot Tables and Dashboards.
 
 ##Key Insights
