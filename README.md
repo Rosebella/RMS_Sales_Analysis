@@ -17,5 +17,4 @@ This project analyzes sales performance for RKY Mega Stores (RMS) from 2009-2012
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - Data Analysis
 
-##Contact
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rosebella-darko-27319a292) or email me at [rosebelladarko2@gmail.com].
+##Connect with me on [LinkedIn](https://www.linkedin.com/in/rosebella-darko-27319a292) or email me at [rosebelladarko2@gmail.com].
